@@ -1,3 +1,3 @@
 # hello-world
-You are hearing me talk.
-~Al Gore
+hello-edits
+You are hearing me talk. a lot.
